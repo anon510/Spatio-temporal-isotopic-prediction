@@ -1,0 +1,628 @@
+SAMPLE_ID,Average initial ?Nd,Group Age (Ma),Latitude GDA 1994,Longitude GDA 1994,Rock Type,References
+224377,-6.5,2600,-32.8703,116.5099,biotite leucogranite,GSWA
+142899,-1.1,2600,-25.5361,117.2794,metamonzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+83551,-4.8,2602,-29.1919,116.2516,granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+185929,-2.2,2606,-26.6976,117.9742,granitic rock,GSWA
+184115,-1.5,2608,-33.7197,115.8639,coarse-grained granite gneiss,GSWA
+142907,-6.9,2608,-25.4870,117.0415,biotite monzogranite dyke,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+224305,-2.4,2611,-33.4001,115.9789,biotite granite,GSWA
+52475F,-2.9,2612,-32.9944,115.9833,porph granite,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+52478D,-2.6,2612,-32.8806,116.1597,porph granite,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+224309,-1.9,2615,-33.8575,116.4219,biotite leucogranite,GSWA
+142914,-6.3,2615,-25.7341,117.1393,porphyritic biotite-hornblende monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+YQ38,-1.7,2615,-31.3000,119.4400,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+236432,-2.3,2617,-32.7520,116.3749,granodiorite,GSWA
+236461,-1.8,2617,-32.7436,116.3743,monzogranite,GSWA
+97969125,-2.7,2617,-31.0587,118.6631,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+224371,-2.8,2618,-33.6624,116.0161,metamonzogranite,GSWA
+236444,-3.4,2619,-32.7425,116.3245,granodiorite,GSWA
+248207,-3.4,2620,-31.5220,116.2103,granodiorite,GSWA
+192223,-1.9,2620,-28.7456,123.6709,granitic rock,GSWA
+144814,2.5,2620,-25.9587,116.6056,biotite granite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+97969209,-1.2,2620,-32.3947,121.7648,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+88-195,-3.3,2620,-26.5630,116.8330,granite,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+ARC69,-3.8,2621,-31.1500,120.9600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180981,-3.8,2621,-31.1500,120.9600,granite,GSWA
+224451,-2.7,2622,-31.8021,118.4222,granitic gneiss,GSWA
+97969201,-3.5,2623,-32.5938,121.7579,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+118963,-4.7,2624,-25.8929,119.2587,porphyritic syenogranite,GSWA
+97969237,-0.6,2625,-32.3417,121.8439,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+207630,-0.9,2626,-29.1457,117.1378,medium- to coarse-grained porphyritic monzogranite,GSWA
+ARC20,-2.5,2626,-31.1706,119.6869,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97969138,-3.3,2627,-30.9514,117.8597,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+205935,-5.0,2628,-32.3844,116.4270,metamonzogranite,GSWA
+224307,-0.7,2629,-33.4810,116.1113,biotite leucogranite,GSWA
+142906,-7.6,2630,-25.4881,117.0816,coarse porphyritic monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+98969042,-2.8,2630,-27.1815,118.8374,quartz monzonite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99967114,-3.3,2630,-27.1326,117.4501,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97967153,0.4,2630,-31.6898,122.2266,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+98967100A,-3.2,2630,-31.2045,120.2906,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99969063,-3.5,2630,-30.6420,116.7697,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+2001967009,0.5,2630,-30.4767,120.5594,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+30711,-2.3,2630,-31.5792,116.2750,granodiorite,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+36937A,-0.7,2630,-31.8847,116.1597,Monzogranite,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+56477,-2.7,2630,-31.2023,120.2903,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+YQ13,-3.6,2631,-32.4500,118.8900,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+96969002,-3.3,2631,-29.8445,120.2172,biotite monzogranite,GA unpublished
+YQ46,-3.0,2632,-31.4800,119.0500,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+2001969001,0.3,2632,-30.8542,121.9876,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+96969012,-4.2,2633,-29.4586,120.3633,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+ARC71,-0.9,2635,-31.6400,120.7600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180982,-0.9,2635,-31.6400,120.7600,granite,GSWA
+YQ10,-3.4,2636,-33.0700,118.3100,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+YQ11,-5.3,2636,-33.0700,118.3100,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+142853,-10.9,2637,-25.3872,117.8629,granite gneiss,GSWA
+YQ45,-4.4,2637,-31.3500,119.1600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+224380,-1.9,2638,-32.9375,116.6856,biotite granite,GSWA
+YQ21,-0.8,2638,-32.0700,118.7600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+115559,0.8,2638,-30.9274,122.5535,biotite granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+71-742,1.2,2638,-30.9189,122.5500,biotite granite,"McCulloch, MT 1987, Sm–Nd isotopic constraints on the evolution of Precambrian crust in the Australian continent. In Kroner, A. (ed.), Proterozoic lithospheric evolution, American Geophysical Union Geodynamics Series, v. 17, p. 115–130."
+84-97,-7.0,2638,-26.5240,116.3710,granite,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+2001969019B,0.0,2638,-28.9127,122.9297,granite dyke,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+184117,-0.9,2639,-33.9937,116.0750,fine-grained two-mica granite gneiss ,GSWA
+ARC101,-2.0,2639,-31.8236,120.2865,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+ARC29,-1.9,2639,-32.7600,121.2859,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+YQ17,-1.8,2639,-32.3400,119.1500,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180998,-2.0,2639,-31.8236,120.2865,granite,GSWA
+99969096,-4.4,2639,-30.0570,116.6770,hornblende biotite granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+224420,-2.8,2640,-31.7140,116.5397,biotite granite,GSWA
+YQ22,-0.1,2640,-32.0800,118.7600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+98969019,-2.6,2640,-27.1557,119.7234,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969023,-2.4,2640,-30.4189,120.4761,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969044,-1.0,2640,-30.8504,121.2473,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969245,0.3,2640,-31.9468,122.1718,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969034,-0.7,2640,-31.1872,120.6298,biotite monzogranite,"Oliver, B 1999, Granitoids of the Mount Mulgine and Noongal areas. Unpublished B.Sc (honours) thesis, University of Western Australia."
+99969049,-4.0,2640,-30.9082,118.1124,hornblende biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969045,-0.5,2640,-30.3153,120.5598,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+97969049,-2.3,2640,-30.2948,120.5089,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+98969144,-2.8,2640,-31.0103,120.8756,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+99967004,1.2,2640,-29.3889,123.2349,monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+99967018,0.6,2640,-29.5233,122.8214,monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001967013,-2.1,2640,-30.2165,120.5987,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001969113,1.3,2640,-27.3665,121.7432,sphene-biotite granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+98967116D,1.6,2640,-31.8145,121.5115,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+92969054,-1.5,2640,-28.8512,120.3441,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969068,-4.2,2640,-28.5471,120.2702,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+71187,-6.9,2640,-26.5346,116.3842,granite,"De Laeter, JR, Fletcher, IR, Bickle, MJ, Myers, JS, Libby, WG and Williams, IR 1985, Rb-Sr, Sm-Nd and Pb-Pb geochronology of ancient gneisses from Mt Narryer, Western Australia: Australian Journal of Earth Sciences, v. 32, p. 349–358."
+55810C,-0.8,2640,-34.0611,116.3317,quartz monzonite,"Fletcher, IR, Wilde, SA, Libby, WG and Rosman, KJR 1983b, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia—II; southwest transect into the Proterozoic Albany-Fraser Province: Australian Journal of Earth Sciences, v. 30"
+87975,-1.4,2640,-29.6656,119.5620,granodiorite to granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+224339,-5.1,2641,-33.8807,118.3646,banded biotite gneiss,GSWA
+99967055,-3.5,2641,-30.6317,117.4022,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+96969025,1.0,2641,-27.3941,121.1219,granite,GA unpublished
+83407,-4.1,2641,-29.2144,116.7247,granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+92969022,-1.6,2642,-29.4185,121.2947,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+187655,-1.5,2643,-26.2380,118.4616,biotite monzogranite,GSWA
+219901,0.9,2643,-33.5748,117.9210,metamonzogranite,GSWA
+179449,1.5,2643,-27.9925,123.4250,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+88-179,-4.1,2643,-27.3920,115.5230,granite,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+59046A,2.2,2644,-27.4695,121.2125,granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+59046C,1.6,2644,-27.4695,121.2125,granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+59047,1.8,2644,-27.4695,121.2125,cpx-amph alkali granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+97967069A,0.9,2644,-27.3099,121.0516,porphryry dyke,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97967150,1.3,2645,-31.8185,122.5497,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97967152,1.4,2645,-31.6502,122.5907,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99967066,-3.9,2645,-30.3261,116.0854,k-feldspar phyric biotite granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+98967051,0.7,2645,-27.3387,123.8228,monzogranite,J. Dunphy unpublished data
+ARC90,3.0,2646,-33.0672,120.2873,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180993,3.0,2646,-33.0672,120.2873,granite,GSWA
+224316,-3.2,2647,-33.8647,117.0684,biotite leucogranite,GSWA
+2001969044,-1.4,2647,-28.8652,120.5220,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+96969046,1.5,2647,-27.4455,121.9297,foliated granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+142816,0.2,2648,-26.0218,120.3175,biotite monzogranite,GSWA
+118996,5.7,2648,-25.8301,120.9281,"medium-grained, anhedral-granular hornblende syenite",GSWA
+224345,-2.6,2648,-34.1201,119.0081,biotite granite,GSWA
+212092,-1.8,2648,-27.8989,119.5496,biotite monzogranite,GSWA
+92969080A,0.6,2648,-28.3183,120.7598,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+2001967045,0.6,2649,-29.5870,121.2804,biotite monzogranite dyke,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+187651,-2.2,2650,-26.2281,118.2427,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+224324,0.3,2650,-34.1216,117.5063,biotite leucogranite,GSWA
+224340,1.4,2650,-34.0955,118.5408,biotite leucogranite,GSWA
+224315,1.2,2650,-34.0339,117.0139,biotite leucogranite,GSWA
+205944,1.3,2650,-33.9227,117.2910,leucogranite,GSWA
+224353,-2.0,2650,-33.8079,119.4368,biotite granite,GSWA
+205947,0.3,2650,-33.5306,118.0874,leucogranite,GSWA
+224337,-1.1,2650,-33.4206,117.0571,biotite leucogranite,GSWA
+224374,0.1,2650,-33.3856,116.5452,equigranular biotite granite,GSWA
+205948,1.3,2650,-33.3602,118.7445,leucogranite,GSWA
+224330,-0.4,2650,-33.3089,117.2903,biotite leucogranite,GSWA
+224375,-1.1,2650,-33.1393,116.8414,biotite granite,GSWA
+205938,-2.0,2650,-33.0953,116.5303,leucogranite,GSWA
+224336,-1.0,2650,-33.0620,117.6212,biotite leucogranite,GSWA
+224382,-0.1,2650,-32.5554,117.0357,biotite tonalite,GSWA
+224361,-0.7,2650,-32.4957,118.5444,biotite leucogranite,GSWA
+224362,-3.3,2650,-32.3035,117.1755,biotite leucogranite,GSWA
+224390,-1.0,2650,-32.2876,117.9483,monzogranite,GSWA
+224392,-5.4,2650,-32.0454,118.2048,leucogranite,GSWA
+224400,0.4,2650,-32.0126,116.8602,biotite-hbl granite,GSWA
+224454,-1.3,2650,-31.7614,118.5852,biotite granite,GSWA
+224433,-4.1,2650,-31.6719,117.4886,biotite granite,GSWA
+224428,-3.3,2650,-31.6675,117.2242,biotite granite,GSWA
+500014,-2.4,2650,-31.6134,117.0271,granite,GSWA
+224449,-2.7,2650,-31.5544,118.4614,biotite granite,GSWA
+500015,-4.1,2650,-31.4951,117.2137,granite,GSWA
+224436,-2.5,2650,-31.4414,118.2702,biotite granite,GSWA
+224415,-3.5,2650,-31.3919,117.7251,equigranular biotite granite,GSWA
+224458,-1.7,2650,-31.3294,116.7881,biotite gneiss,GSWA
+224438,-1.5,2650,-31.3264,118.0652,biotite granite,GSWA
+224457,-3.9,2650,-31.2406,116.8572,biotite granite,GSWA
+224455,-1.5,2650,-31.1947,117.4948,granite,GSWA
+224456,-2.4,2650,-31.1839,117.2631,biotite granite,GSWA
+224441,-2.4,2650,-31.1268,118.2277,biotite granite,GSWA
+224444,-3.7,2650,-31.0844,118.0937,biotite granite,GSWA
+500263,-2.9,2650,-30.9945,116.7981,granite,GSWA
+500267,-4.6,2650,-30.8924,116.9814,granite,GSWA
+500141,-3.5,2650,-30.7611,117.2382,monzogranite,GSWA
+500268,-4.4,2650,-30.6106,117.0148,granite,GSWA
+500277,-2.5,2650,-30.5298,116.6293,granite,GSWA
+500284,-4.7,2650,-30.4142,116.7759,granite,GSWA
+500288,-4.6,2650,-30.3833,116.9607,granite,GSWA
+500303,-3.8,2650,-30.2332,116.9559,granite,GSWA
+201520,-2.6,2650,-30.1862,117.8907,monzogranite,GSWA
+500165,-3.0,2650,-30.1341,117.0945,gneiss,GSWA
+201521,-3.0,2650,-29.9275,117.8754,monzogranite,GSWA
+500180,-0.5,2650,-29.9265,116.2886,monzogranite,GSWA
+201519,-1.9,2650,-29.8119,117.7620,monzogranite,GSWA
+201518,-0.7,2650,-29.7738,117.7147,monzogranite,GSWA
+500194,-4.5,2650,-29.7181,116.1735,monzogranite,GSWA
+500189,-5.1,2650,-29.6862,115.9070,monzogranite,GSWA
+500193,-4.0,2650,-29.6647,116.3704,monzogranite,GSWA
+201517,-1.1,2650,-29.5304,117.8624,monzogranite,GSWA
+185964,0.1,2650,-29.4492,123.2676,granitic rock,GSWA
+500211,-5.9,2650,-29.2590,115.9689,granodiorite,GSWA
+201514,0.7,2650,-29.1691,117.6532,monzogranite,GSWA
+201536,-1.3,2650,-29.1322,118.3028,monzogranite,GSWA
+201527,-0.7,2650,-28.7424,118.0445,metagranitic rock,GSWA
+168772,6.3,2650,-25.9145,117.3648,biotite-muscovite granite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+98969044,0.3,2650,-27.1530,118.8164,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969248,1.1,2650,-31.8844,122.1482,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+2001969039,0.8,2650,-29.8266,121.7281,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+99967009,1.5,2650,-29.1977,122.9825,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+99969017,1.9,2650,-28.1687,120.9528,lineated granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+40591A,1.0,2650,-27.8473,121.8875,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+2001967053B,0.2,2650,-28.9821,122.8837,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001969058,1.7,2650,-28.4208,122.1310,fluorite-biotite granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001969108,1.4,2650,-27.2960,121.3007,porphyritic biotite granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+92969052,-1.0,2650,-28.9409,120.9369,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969071,-1.8,2650,-28.0095,120.8104,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969091,1.3,2650,-28.1431,121.7455,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969111,0.9,2650,-28.1035,122.2009,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969115,1.4,2650,-28.0678,121.9727,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969124,0.6,2650,-28.4758,122.4898,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+93969049,2.0,2650,-27.4611,122.8918,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+40592A,0.4,2650,-27.8639,121.8875,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+94962355,1.3,2650,-27.0682,120.7763,granite,GA unpublished
+94969608,1.4,2650,-27.3147,121.3153,granite,GA unpublished
+193409,-2.0,2651,-29.2359,123.3179,monzogranite,GSWA
+224412,-5.9,2651,-31.6138,117.8550,biotite granite,GSWA
+96969034,2.1,2652,-27.4689,120.7932,granite,GA unpublished
+98967052A,1.2,2652,-27.4103,123.7221,monzogranite dyke,J. Dunphy unpublished data
+179441,1.0,2653,-27.9511,123.1441,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+ARC30,-1.5,2653,-32.7400,121.3332,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+ARC34,-1.6,2653,-32.1300,120.9300,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+92964658,-4.3,2653,-28.1737,120.1699,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+ARC9914,-1.8,2654,-32.3211,119.5237,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+YQ14,-2.1,2654,-32.4300,119.1100,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180996,-1.8,2654,-32.3211,119.5237,granite,GSWA
+224332,-4.5,2655,-32.9180,117.2126,biotite leucogranite,GSWA
+178103,-0.4,2655,-26.7347,118.2649,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+97969249,3.7,2655,-31.8288,122.1837,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969243,0.7,2655,-32.2127,121.9315,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+115587,1.7,2655,-30.6932,122.4556,clinopyroxene-hornblende granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+95969704K,1.4,2655,-30.6156,121.5805,porphyry pod,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+95969716B,2.6,2655,-30.6217,121.6400,porhyry pod,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+95969725B,0.9,2655,-30.5110,121.5801,feldspar porphyry,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+95969727B,1.9,2655,-30.6094,121.6086,porphyry pod,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+80-187a,2.2,2655,-30.6200,121.5800,felsic intrusive porphyry,"McCulloch, MT and Compston, W 1981, Sm-Nd age of Kambalda and Kanowna greenstones and heterogeneity in the Archaean mantle: Nature, v. 294, p. 322–327."
+80-187b,2.2,2655,-30.6200,121.5800,felsic intrusive porphyry,"McCulloch, MT and Compston, W 1981, Sm-Nd age of Kambalda and Kanowna greenstones and heterogeneity in the Archaean mantle: Nature, v. 294, p. 322–327."
+71-736,0.0,2655,-31.0320,121.3681,Granite,"McCulloch, MT 1987, Sm–Nd isotopic constraints on the evolution of Precambrian crust in the Australian continent. In Kroner, A. (ed.), Proterozoic lithospheric evolution, American Geophysical Union Geodynamics Series, v. 17, p. 115–130."
+168973,-2.1,2656,-29.5667,118.7149,biotite monzogranite,GSWA
+ARC31,-1.1,2656,-32.6500,121.4218,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97969090,-1.0,2656,-30.8845,119.5231,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969202,-0.4,2656,-32.4674,121.6207,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97967038G,1.2,2656,-30.4089,121.4111,hornblende-biotite granodiorite,"Oliver, B 1999, Granitoids of the Mount Mulgine and Noongal areas. Unpublished B.Sc (honours) thesis, University of Western Australia."
+99967176,1.3,2657,-28.8514,122.3084,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99967174A,2.0,2657,-28.8516,122.3068,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+93901,3.8,2657,-30.2475,121.3665,biotite monzogranite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+ARC33,-1.9,2658,-32.0700,120.6900,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+2001967039,0.2,2658,-28.7064,122.6338,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+224404,-2.6,2659,-31.9333,117.7567,biotite granite,GSWA
+98969003,0.2,2659,-31.3935,122.8525,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+96969010,-1.4,2659,-29.6612,120.2056,biotite monzogranite,GA unpublished
+2001969007,1.4,2659,-28.6988,121.7436,titanite-hornblende-biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+224378,-3.3,2660,-32.8703,116.5099,grey gneiss,GSWA
+178101,-0.4,2660,-26.6487,118.4128,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+179435,1.2,2660,-28.0817,123.1227,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+97969223,0.6,2660,-32.0827,122.0355,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+71-909,0.7,2660,-32.0686,122.0333,biotite granite,"McCulloch, MT 1987, Sm–Nd isotopic constraints on the evolution of Precambrian crust in the Australian continent. In Kroner, A. (ed.), Proterozoic lithospheric evolution, American Geophysical Union Geodynamics Series, v. 17, p. 115–130."
+98967008,1.1,2660,-30.9864,122.5998,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+96969087,1.2,2660,-29.1369,121.9173,biotite monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+2001969035,1.7,2660,-29.8383,121.9403,sphene-biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+92969105,-0.4,2660,-28.3939,122.0925,dyke,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+71125,-2.0,2660,-28.5487,119.0847,hornblende biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+87955,-4.5,2660,-29.7208,119.6282,granodiorite to granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+177928,-1.5,2661,-27.7589,119.3353,biotite monzogranite,GSWA
+142902,-7.1,2661,-25.5781,117.4388,foliated biotite monzogranite dyke,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+ARC21,-1.3,2661,-31.2841,119.8120,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+72-864,-1.2,2661,-32.1839,120.8847,granite,"McCulloch, MT 1987, Sm–Nd isotopic constraints on the evolution of Precambrian crust in the Australian continent. In Kroner, A. (ed.), Proterozoic lithospheric evolution, American Geophysical Union Geodynamics Series, v. 17, p. 115–130."
+98969025,-2.1,2661,-27.1168,119.3254,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+94969584,2.2,2661,-28.8166,122.4220,hornblende-biotite granodiorite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+94969584B,1.7,2661,-28.8166,122.4220,hornblende-biotite granodiorite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+179444,0.8,2662,-27.7145,123.0788,biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+224410,-7.0,2662,-31.6949,117.9694,biotite granite,GSWA
+71-751,1.9,2662,-31.1800,121.6833,trondhjemite,"McCulloch, MT and Compston, W 1981, Sm-Nd age of Kambalda and Kanowna greenstones and heterogeneity in the Archaean mantle: Nature, v. 294, p. 322–327."
+71-752,2.1,2662,-31.1800,121.6833,trondhjemite,"McCulloch, MT and Compston, W 1981, Sm-Nd age of Kambalda and Kanowna greenstones and heterogeneity in the Archaean mantle: Nature, v. 294, p. 322–327."
+72-41,1.9,2662,-31.1800,121.6833,felsic intrusive porphyry,"McCulloch, MT and Compston, W 1981, Sm-Nd age of Kambalda and Kanowna greenstones and heterogeneity in the Archaean mantle: Nature, v. 294, p. 322–327."
+2000969007,1.9,2662,-30.9117,121.5783,hornblende quartz diorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+182601,-1.1,2663,-29.0175,123.1056,granitic rock,GSWA
+ARC81,-1.9,2663,-32.8388,119.5456,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+ARC80,-1.7,2663,-32.9119,119.9906,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180986,-1.7,2663,-32.9119,119.9906,granite,GSWA
+180987,-2.0,2663,-32.8388,119.5456,granite,GSWA
+YQ18,-3.2,2663,-32.2400,119.1200,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97969256B,1.2,2663,-31.9867,122.4076,granodiorite xenolith,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+40597F,1.9,2663,-28.7473,123.7695,monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+148397,1.5,2664,-25.9745,120.7098,hornblende monzogranite,GSWA
+177920,1.9,2664,-31.5814,122.9119,foliated granodiorite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+ARC82,-1.7,2664,-32.6760,119.4155,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180988,-1.7,2664,-32.6760,119.4155,granite,GSWA
+104964,0.5,2664,-31.8700,121.6310,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+92969031,0.7,2664,-28.7777,120.8387,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+2000969006,3.1,2664,-29.3524,122.0695,allanite-biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+77-41,1.6,2664,-31.8664,121.6304,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+77-42,2.1,2664,-31.8664,121.6304,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+77-43,1.2,2664,-31.8664,121.6304,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+92963431,1.8,2664,-28.4809,122.4853,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969032,0.4,2664,-28.7703,120.8301,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+169071,-5.1,2665,-28.1780,119.7367,biotite monzogranite,GSWA
+183147,-0.2,2665,-28.2084,123.6464,granitic rock,GSWA
+ARC19,-1.7,2665,-30.8864,119.5213,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+92969082,1.0,2665,-28.1565,120.5674,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+96969044,2.0,2665,-27.3830,121.4729,foliated granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+98276,2.9,2665,-31.1241,121.4073,hornblende monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+115552,2.3,2665,-30.5745,122.4112,hornblende-biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+115571,1.1,2665,-30.9270,122.7204,hornblende-biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001969055B,0.4,2665,-29.3647,121.1332,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+93906,1.2,2665,-29.9860,121.0423,biotite granodiorite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92963318,2.0,2665,-28.0846,120.5052,foliated granites,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969051,1.8,2665,-28.9516,121.1596,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+93969021,1.5,2665,-27.6400,121.6034,biotite (-hornblende) granodiorite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+94969580,1.2,2665,-28.7443,122.4480,hornblende-biotite tonalite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+185972,1.2,2666,-28.0347,123.5203,monzogranite,GSWA
+2001969005,3.8,2667,-30.5840,122.4914,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+109358,1.5,2667,-29.7820,122.3014,quartz monzonite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001967017A,0.7,2667,-30.6703,121.0315,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+94962258A,1.3,2667,-27.4887,120.9567,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+185967,0.5,2668,-29.0529,123.0215,quartz diorite,GSWA
+77-45,-2.4,2668,-31.2941,121.3015,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+77-47,-0.8,2668,-31.2941,121.3015,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+2001969019A,1.2,2668,-28.9127,122.9297,banded biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+224329,-1.1,2669,-33.5126,117.5090,biotite leucogranite,GSWA
+193316,0.2,2669,-27.3086,123.0416,porphyritic microgranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+168942,-4.4,2669,-25.6073,116.3404,porphyritic biotite-muscovite monzogranite gneiss,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+205933,0.0,2670,-30.9178,116.6492,fine- to medium-grained metamonzogranite dyke,GSWA
+219902,-0.8,2670,-33.5412,117.9104,metagranodiorite,GSWA
+224426,-3.7,2670,-31.6207,116.6673,biotite gneiss,GSWA
+236452,0.3,2670,-32.7004,116.3497,"foliated, medium-grained metagranodiorite ",GSWA
+ARC84,-0.5,2670,-33.1132,119.0158,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180989,-0.5,2670,-33.1132,119.0158,granite,GSWA
+159776,-4.1,2670,-25.6073,116.3404,granitic augen gneiss,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+77-1086,0.1,2670,-31.6980,116.5940,granite,"McCulloch, MT, Collerson, KD and Compston, W 1983b, Growth of Archean crust within the western gneiss terrain, Yilgarn Block, Western Australia: Australian Journal of Earth Sciences, v. 30, p. 155–160."
+77-1130,-1.0,2670,-31.5780,116.2765,granodiorite,"McCulloch, MT, Collerson, KD and Compston, W 1983b, Growth of Archean crust within the western gneiss terrain, Yilgarn Block, Western Australia: Australian Journal of Earth Sciences, v. 30, p. 155–160."
+93969030A,1.6,2670,-28.5289,123.0050,foliated biotite granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+93969030C,2.1,2670,-28.5289,123.0050,biotite granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969113A,-0.2,2670,-28.0164,122.2073,foliated granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969087,2.4,2670,-28.1218,121.5397,granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969101,2.5,2670,-28.2705,121.5369,foliated granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+20807a,-2.5,2670,-25.5515,116.6181,migmatite,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+193332,0.9,2671,-27.3539,123.1083,monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+ARC76,-1.8,2671,-32.0354,119.4370,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180984,-1.8,2671,-32.0354,119.4370,granite,GSWA
+96969080A,-0.2,2671,-28.4928,122.7887,foliated banded granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+98969033,-3.9,2671,-27.3390,119.1284,granitic gneiss,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+118957,0.3,2672,-25.6146,118.8503,coarse-grained augen gneiss,GSWA
+98967050A,0.1,2672,-28.5536,124.0464,monzogranite,J. Dunphy unpublished data
+205932,-2.9,2673,-31.0337,116.6256,medium- to coarse-grained metamonzogranite,GSWA
+236460,-1.9,2673,-32.7331,116.3828,granodiorite,GSWA
+ARC35,2.5,2673,-32.1700,121.5900,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+96969038,2.1,2673,-26.2102,120.5908,gneissic granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+114500,0.4,2675,-30.8425,121.4293,dacite,GSWA
+117211,-0.4,2675,-30.6301,121.2617,andesite,GSWA
+114474,-0.1,2675,-30.6299,121.2429,dacite,GSWA
+114450,-0.3,2675,-30.4215,121.0562,andesite,GSWA
+2001967019A,0.5,2675,-31.2650,121.0805,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+101381,2.1,2675,-29.7393,121.9673,biotite-hornblende monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+98967124,1.3,2675,-31.4609,121.9979,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+115595,0.8,2675,-30.5475,122.6181,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+56478,-1.6,2675,-31.5404,120.5459,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+177932,-4.2,2676,-27.4304,119.6011,metagranodiorite,GSWA
+224395,-3.7,2676,-31.8913,116.5873,biotite leucogranite,GSWA
+142803,-1.9,2676,-31.1900,120.4479,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+92969038,1.3,2676,-28.8767,120.6067,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+224368,-2.9,2677,-32.4130,116.0044,biotite granite,GSWA
+92969067,1.2,2678,-28.5204,120.5408,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+185997,0.0,2679,-29.0540,118.1386,"weakly gneissose, garnet-bearing aplite or microgranite gneiss",GSWA
+179684,-0.1,2679,-32.0309,122.0914,metarhyolite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+211535,2.5,2680,-30.8155,121.5362,metafelsic volcanic rock,GSWA
+211536,2.2,2680,-30.8155,121.5362,metafelsic volcanic rock,GSWA
+110240,1.5,2680,-29.0977,121.3733,dacite,GSWA
+MKTD584W.1434,-0.4,2680,-27.2300,120.5430,felsic volcanic rock,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+MKTD617W2.1114,1.6,2680,-27.2300,120.5430,felsic volcanic rock,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97967069B,-0.3,2680,-27.3099,121.0516,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+92963213,-1.1,2680,-28.0861,120.8053,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969004,-0.8,2680,-29.4025,121.3690,porhyry dyke,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969015,1.4,2680,-29.3281,121.5096,biotite granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969016,0.6,2680,-29.3925,121.4442,Foliated granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969025,1.2,2680,-28.7195,120.9895,dyke in banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969073,1.5,2680,-28.2839,120.8165,foliated granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969084,-0.8,2680,-28.5930,121.3060,felsic granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+92969122,0.3,2680,-28.5128,122.2963,foliated granite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+71122,-4.3,2680,-28.5181,119.7389,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+71123,-4.3,2680,-28.6529,119.8779,hornblende biotite granodiorite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+71124,-1.9,2680,-28.6987,119.1375,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+81884,-1.9,2680,-30.8425,119.7207,granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+63202,1.5,2680,-30.5695,121.6556,porphyritic rhyolite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+63206,0.8,2680,-30.6376,121.6486,rhyolite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+63217,1.4,2680,-30.6404,121.4347,rhyolite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+92969024,0.8,2680,-28.7195,120.9895,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+198212,-1.4,2681,-29.1913,118.1337,"medium-grained, equigranular, porphyritic biotite monzogranite",GSWA
+74459,-0.2,2681,-27.7458,117.8944,recrystallised granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+40597A,1.0,2681,-28.7473,123.7695,hornblende biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+97969104,-3.9,2682,-29.0515,119.5204,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+97969082A,-4.2,2682,-28.7103,119.7326,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+ARC67,-2.0,2684,-31.1200,121.4000,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180980,-2.0,2684,-31.1200,121.4000,granite,GSWA
+MKD1-180,-0.5,2684,-26.7500,120.2500,felsic volcanic rock,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97969063,-3.5,2684,-28.5107,119.7385,monzogranite,"Oliver, B 1999, Granitoids of the Mount Mulgine and Noongal areas. Unpublished B.Sc (honours) thesis, University of Western Australia."
+ARC77,-0.3,2685,-31.9431,119.6401,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180985,-0.3,2685,-31.9431,119.6401,granite,GSWA
+169064,-4.4,2685,-29.9534,119.8037,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+97969212,0.4,2685,-32.3567,121.7049,granitic gneiss,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+ARC87,-0.8,2686,-33.1657,119.8819,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180992,-0.8,2686,-33.1657,119.8819,granite,GSWA
+96969076,2.0,2686,-28.2641,121.0779,biotite monzogranite,GA unpublished
+142913,-6.1,2687,-25.6371,117.0976,foliated biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+2001967014,-6.4,2687,-30.4283,120.6411,biotite gneiss,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+ARC98,-0.6,2688,-33.4649,120.4975,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180995,-0.6,2688,-33.4649,120.4975,granite,GSWA
+184111,1.4,2689,-27.1366,118.2815,felsic metavolcanic rock,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+236410,0.4,2690,-32.7337,116.3606,andesite,GSWA
+177923,1.9,2690,-31.6219,122.0074,metarhyodacite,GSWA
+204146,1.6,2690,-31.3798,121.5258,felsic volcanic rock,GSWA
+223068,1.5,2690,-31.3263,121.7902,felsic volcaniclastic rock,GSWA
+223074,1.9,2690,-31.3263,121.7902,felsic volcaniclastic rock,GSWA
+223086,1.5,2690,-31.3263,121.7902,felsic volcaniclastic sandstone,GSWA
+229904,1.6,2690,-31.2978,121.7557,diorite,GSWA
+229913,1.5,2690,-31.2978,121.7557,hornblende metagranodiorite,GSWA
+229908,2.2,2690,-31.2978,121.7557,andesite,GSWA
+229912,1.6,2690,-31.2978,121.7557,andesite,GSWA
+227954,-3.3,2690,-31.2112,121.6735,granitic rock,GSWA
+114144,2.1,2690,-30.9767,122.0606,metadacite,GSWA
+227894,2.3,2690,-30.8236,121.5578,felsic volcanic rock,GSWA
+227909,2.2,2690,-30.8236,121.5578,felsic volcanic rock,GSWA
+211529,2.7,2690,-30.8155,121.5362,metafelsic volcanic rock,GSWA
+211547,2.4,2690,-30.8155,121.5362,meta-andesite,GSWA
+227917,1.1,2690,-30.7953,121.6357,felsic volcaniclastic sandstone,GSWA
+227918,0.6,2690,-30.7953,121.6357,felsic volcaniclastic sandstone,GSWA
+224513,0.2,2690,-30.7614,121.2766,felsic volcaniclastic sandstone,GSWA
+224528,0.7,2690,-30.7614,121.2766,felsic volcaniclastic sandstone,GSWA
+204681,1.0,2690,-30.6190,121.2643,dacite,GSWA
+228115,-1.7,2690,-27.6025,120.5762,felsic volcanic rock,GSWA
+228126,-2.9,2690,-27.6025,120.5762,felsic volcanic rock,GSWA
+228078,-0.2,2690,-27.6020,120.5783,felsic volcaniclastic sandstone,GSWA
+230005,-2.4,2690,-26.8620,121.5847,felsic schist derived from volcanic rock,GSWA
+229973,-2.1,2690,-26.7915,121.5560,felsic volanic rock,GSWA
+115542,2.6,2690,-29.9682,122.5811,hornblende-biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+77334,-2.7,2690,-26.5245,116.8819,monzogranite tonalite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77391,-1.9,2690,-26.4126,116.7861,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77392,-4.8,2690,-26.4126,116.7861,biotite monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77337A,-1.7,2690,-26.5245,116.8819,monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+92969016B,1.0,2690,-29.3925,121.4442,gneiss enclave,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+ARC32,-3.3,2691,-32.4600,121.6881,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+YQ19,-1.7,2691,-32.1200,119.0200,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+99969014A,-0.9,2693,-28.3742,121.1632,sphene-hornblende granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+99969014B,3.1,2693,-28.3742,121.1632,sphene-hornblende granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+ARC1A,-2.5,2695,-30.3283,119.1876,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+ARC24,-2.3,2696,-32.2800,120.5989,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+ARC118,-6.8,2699,-32.3500,120.3600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180999,-6.8,2699,-32.3500,120.3600,granite,GSWA
+98967102E,-2.6,2699,-30.6333,119.3093,granodiorite xenolith,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+139467,-7.5,2700,-25.5300,116.6667,pegmatite-banded monzogranitic gneiss,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+223153,2.8,2700,-31.3263,121.7902,granitic rock,GSWA
+223138,2.5,2700,-31.3263,121.7902,meta-andesite,GSWA
+223141,2.3,2700,-31.3263,121.7902,meta-andesite,GSWA
+236707,2.6,2700,-30.1400,122.3597,felsic volcaniclastic sandstone,GSWA
+236736,3.0,2700,-30.1312,122.3665,felsic volcaniclastic rock,GSWA
+236728,2.6,2700,-30.1200,122.3505,syenogranite,GSWA
+236712,2.5,2700,-30.1146,122.3461,granitic rock,GSWA
+236718,2.4,2700,-30.1146,122.3461,monzodiorite,GSWA
+236745,2.3,2700,-29.8047,122.2864,felsic volcanic rock,GSWA
+98969045,0.8,2700,-27.1706,118.9864,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+77-1110,-1.9,2700,-31.6390,116.6290,leucosome from migmatite,"McCulloch, MT, Collerson, KD and Compston, W 1983b, Growth of Archean crust within the western gneiss terrain, Yilgarn Block, Western Australia: Australian Journal of Earth Sciences, v. 30, p. 155–160."
+77-1111 ,0.6,2700,-31.6390,116.6290,melanosome from migmatite,"McCulloch, MT, Collerson, KD and Compston, W 1983b, Growth of Archean crust within the western gneiss terrain, Yilgarn Block, Western Australia: Australian Journal of Earth Sciences, v. 30, p. 155–160."
+71902,-5.6,2700,-26.5162,116.3629,granite,"De Laeter, JR, Fletcher, IR, Bickle, MJ, Myers, JS, Libby, WG and Williams, IR 1985, Rb-Sr, Sm-Nd and Pb-Pb geochronology of ancient gneisses from Mt Narryer, Western Australia: Australian Journal of Earth Sciences, v. 32, p. 349–358."
+17808,-1.5,2700,-27.3987,117.3181,porphyritic granite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+83474,-0.5,2700,-28.8299,117.2516,recrystallised granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+83478,0.0,2700,-28.5588,117.3930,recrystallised granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+83524,0.5,2700,-28.3935,117.6629,recrystallised granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+92969104B,1.3,2700,-28.3935,122.0303,banded gneiss,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+169068,-3.7,2701,-28.5705,119.0009,granodiorite gneiss,GSWA
+205942,-0.7,2702,-33.7363,117.2423,monzogranite,GSWA
+2000969003,2.7,2703,-29.1097,122.0163,granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+92967064,1.8,2703,-29.1459,122.0389,hornblende-biotite tonalite,"Champion, DC and Sheraton, JW 1997, Geochemistry and Nd isotope systematics of Archaean granites of the Eastern Goldfields, Yilgarn Craton, Australia; implications for crustal growth processes: Precambrian Research, v. 83, p. 109–132."
+2000969004,2.3,2703,-29.0956,122.0097,sphene-hornblende-biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+185963,3.0,2704,-29.4492,123.2676,granitic rock,GSWA
+236419,0.1,2704,-32.7489,116.3607,andesite,GSWA
+ARC100,-1.0,2705,-32.0287,119.9546,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180997,-1.0,2705,-32.0287,119.9546,granite,GSWA
+ARC27,-0.1,2708,-32.6600,120.7825,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+96969022,2.3,2710,-29.5832,122.1749,foliated biotite granite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+2001969111B,2.3,2710,-27.4632,121.7213,gneissic biotite trondhjemite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+168956,-1.7,2711,-30.3147,119.0138,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+98967050B,1.2,2711,-28.5536,124.0464,gneiss,J. Dunphy unpublished data
+98967052B,0.5,2711,-27.4103,123.7221,gneiss,J. Dunphy unpublished data
+98969055,-2.8,2712,-27.5856,119.3954,monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+96969019,3.0,2714,-29.8541,122.3889,foliated biotite granite,GA unpublished
+2001969033A,-0.3,2716,-28.7680,122.6406,biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+ARC28,-1.0,2720,-32.7200,121.0284,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+17810,1.0,2720,-27.9821,117.0181,foliated granodiorite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+182435,1.5,2722,-29.1823,124.5430,metagranitic rock,GSWA
+77-53,-0.3,2722,-30.0338,122.8241,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+77-54,-1.7,2722,-30.0338,122.8241,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+77-55,-2.3,2722,-30.0338,122.8241,gneiss,"McCulloch, MT, Compston, W and Froude, D 1983a, Sm-Nd and Rb-Sr dating of Archaean gneisses, eastern Yilgarn Block, Western Australia: Journal of the Geological Society of Australia, v. 30, p. 149–153."
+168976,-3.8,2723,-30.1784,119.8844,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+185923,0.3,2724,-27.4119,117.6962,granitic gneiss,GSWA
+168959,-3.1,2730,-30.2183,119.3922,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+127247,-3.0,2730,-30.1511,119.3625,andesite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+159393,-2.6,2730,-30.1371,119.2455,andesite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+159356,-3.2,2730,-30.0708,119.2180,rhyolite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+159319,-2.7,2730,-30.0184,119.2221,rhyolite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+99969066,-2.9,2730,-30.6497,116.4898,foliated monzogranite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+168960,-3.0,2732,-30.1797,119.2924,felsic volcanic rock,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+185928,-1.3,2733,-26.7219,117.9720,tonalite,GSWA
+168961,-3.1,2734,-30.1314,119.2889,felsic volcanic rock,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+185970,1.2,2737,-28.0874,123.6142,metagranitic rock,GSWA
+97969102B,-0.7,2737,-29.0244,119.5918,granitic gneiss,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+139459,-6.5,2738,-25.5766,116.8676,foliated porphyritic biotite monzogranite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+193410,-0.3,2738,-29.2348,123.3181,metamonzogranite,GSWA
+94969596,0.7,2738,-27.5389,120.9312,gneiss,GA unpublished
+185138,0.7,2739,-26.3834,118.3643,rhyolite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+99969164A,0.9,2742,-28.2138,116.4262,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99964100,-1.0,2743,-28.1490,116.7434,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99967141,-3.7,2745,-27.7655,117.3383,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+99964003,-4.4,2745,-28.1146,116.7408,monzogranite,"Oliver, B 1999, Granitoids of the Mount Mulgine and Noongal areas. Unpublished B.Sc (honours) thesis, University of Western Australia."
+185932,0.1,2746,-27.3406,118.1756,felsic volcanic rock,GSWA
+185939,-2.0,2746,-26.3135,117.8157,felsic volcanic rock,GSWA
+ARC22,0.4,2746,-31.2947,119.6418,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+99969142,-1.6,2747,-28.6497,116.3510,granodiorite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+185920,-0.3,2748,-27.0749,117.7311,granitic rock,GSWA
+88-182,-6.7,2748,-26.5400,116.1070,granite,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+71180,-3.0,2750,-30.1570,119.3764,granophyre,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+155858,-1.8,2752,-28.7862,116.8090,fine-grained monzogranite,GSWA
+207628,-1.9,2752,-29.1817,116.9786,altered metamonzogranite,GSWA
+89-457,-0.4,2753,-28.1760,115.6880,granite,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+97969225A,1.2,2753,-28.8405,121.2886,biotite monzogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+77366,-2.3,2753,-28.1751,115.6736,monzogranite sheet cutting 77362,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+185958,1.8,2755,-26.7733,118.4616,foliated metagranite,GSWA
+178105,1.0,2755,-26.8808,118.4894,andesite,GSWA
+96969055,2.3,2755,-27.4984,121.9384,hornblende plagiogranite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+185977,-0.5,2756,-27.7563,123.3031,metatonalite,GSWA
+185978,1.3,2756,-27.7563,123.3054,felsic granitic rock,GSWA
+99964016C,-1.3,2756,-29.1887,116.9789,granite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+185921,-1.4,2757,-27.1535,117.5950,monzogranite,GSWA
+185933,0.8,2759,-27.3489,118.1628,granitic rock,GSWA
+242683,-6.6,2760,-28.6461,116.3935,rhyolite ,GSWA
+81711A,0.7,2760,-26.8519,118.3623,granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+74474,1.3,2760,-27.5525,117.9222,granite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+185969,1.2,2761,-28.3847,123.2406,foliated metagranite,GSWA
+185957,1.1,2761,-26.7723,118.4616,metafelsic volcanic rock,GSWA
+193360,1.0,2769,-29.3342,123.2235,granitic gneiss,GSWA
+183118,-0.8,2769,-28.0205,123.4807,felsic volcaniclastic rock,GSWA
+178122,-3.4,2770,-28.0455,123.4900,metarhyolite,GSWA
+2001967053A,0.3,2770,-28.9821,122.8837,biotite migmatite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+ARC23,0.3,2774,-32.2900,120.5322,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+95YQ120,-0.7,2781,-31.3000,118.3600,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+178104,1.0,2782,-26.7942,118.2926,foliated biotite granodiorite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+178102,0.9,2787,-26.7452,118.3039,granitic rock,GSWA
+99967049A,-1.1,2787,-31.0992,117.1021,biotite monzogranite gneiss,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+198299,1.2,2793,-28.2946,116.8228,medium- to coarse-grained metatonalite,GSWA
+224396,-4.2,2800,-31.9103,116.7303,grey augen gneiss,GSWA
+2003967007Z,-0.4,2800,-28.6193,122.2774,strongly foliated lineated altered biotite granodiorite,GA unpublished
+198294,1.7,2801,-29.1035,117.0023,"medium-grained, metamorphosed quartz diorite",GSWA
+142802,1.8,2801,-31.3000,121.3055,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+185996,1.0,2803,-29.0544,118.1495,foliated metagranite,GSWA
+2001967041A,1.0,2803,-29.4275,121.1013,biotite gneiss,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+185995,0.6,2806,-29.0541,118.1502,weakly foliated metagranite,GSWA
+2001969053C,3.0,2809,-28.9039,120.6120,banded biotite gneiss,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+81564,1.2,2810,-26.9106,118.6157,rhyolite,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+193967,0.6,2811,-28.9735,118.2493,hornblende-biotite granodiorite,GSWA
+169003,0.3,2813,-28.1560,118.4396,rhyolite,GSWA
+198298,3.0,2813,-28.3192,116.8282,recrystallized metadacite,GSWA
+98968104,3.9,2813,-28.5741,118.8916,tonalite,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+193923,0.1,2815,-28.8884,118.2038,felsic volcaniclastic granule/pebble breccia,GSWA
+185930,2.0,2815,-27.4972,118.1666,rhyolite,GSWA
+193979,1.3,2818,-28.9832,118.0771,fine-grained meta-andesite,GSWA
+179450,0.7,2832,-28.0237,123.8768,metatonalite,GSWA
+95YQ70,-1.2,2851,-32.7800,118.5000,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+229384,0.4,2918,-28.1398,115.6768,metagranodiorite,GSWA
+77362,0.1,2918,-28.1751,115.6736,leucocratic granodiorite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+88-171,-1.5,2918,-28.1760,115.6880,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+83339,-2.1,2920,-28.6953,116.6626,gneiss,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+83399,1.7,2920,-28.7737,116.6183,gneiss,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+83305,1.6,2920,-27.4472,117.0085,gneiss,"Watkins, KP and Hickman, AH 1990, Geological evolution and mineralisation of the Murchison Province, Western Australia: Geological Survey of Western Australia Bulletin 137."
+179448,1.9,2932,-27.7590,123.3721,biotite tonalite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+229380,-2.4,2935,-28.1305,115.6698,rhyolite,GSWA
+2001969122,1.2,2939,-27.4147,121.9530,banded biotite granodiorite,"Barley, ME, Brown, SJA, Cas, RAF, Cassidy, KF, Champion, DC, Gardoll, SJ and Krapež, B 2003, AMIRA Project P624. An integrated geological and metallogenic framework for the eastern Yilgarn Craton: Developing geodynamic models of highly mineralised Archea"
+224351,-2.6,2940,-33.8864,118.9431,biotite leucogranite,GSWA
+99967082C,-1.4,2940,-30.4651,116.4627,augen gneiss xenolith,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+207670,0.9,2941,-28.5369,116.4724,"strongly deformed, altered, felsic metavolcaniclastic rock",GSWA
+227228,-0.6,2941,-28.5737,116.4630,rhyolite ,GSWA
+227227,-0.5,2941,-28.5736,116.4628,rhyolite ,GSWA
+227231,-2.8,2941,-28.5690,116.4638,rhyolite ,GSWA
+198213,0.3,2945,-29.0585,118.3470,metagranodiorite,GSWA
+211102,2.6,2947,-28.8324,116.9914,felsic volcaniclastic rock,GSWA
+242673,-12.1,2950,-29.3739,116.3507,metarhyolite ,GSWA
+242672,-2.4,2950,-29.3734,116.3517,metarhyolite ,GSWA
+242675,-8.6,2950,-29.3635,116.3320,metarhyolite ,GSWA
+242652,-0.6,2950,-29.2366,116.3036,rhyolite ,GSWA
+242613,-2.5,2950,-29.1727,116.1809,tonalite ,GSWA
+242634,0.8,2950,-29.1695,116.2160,diorite,GSWA
+242612,-1.6,2950,-29.1548,116.1854,tonalite ,GSWA
+227224,0.2,2950,-28.5779,116.4580,tonalite ,GSWA
+229390,0.8,2950,-28.4052,116.2471,metatonalite,GSWA
+77346,-5.8,2950,-27.1223,116.3944,monzogranite cutting 77350,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77350,-3.0,2950,-27.1223,116.3944,porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77353,-0.8,2950,-27.1543,116.3917,porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+44484D,1.3,2950,-28.5650,116.8600,qtz-plag-sericite dacite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+44484G,0.8,2950,-28.5650,116.8600,qtz-plag-sericite dacite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+44484Q,-0.5,2950,-28.5650,116.8600,dacite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+44484S,0.1,2950,-28.5650,116.8600,brecciated dacite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+44484U,1.1,2950,-28.5650,116.8600,porphyritic dacite,"Fletcher, IR, Rosman, KJR, Williams, IR, Hickman, AH and Baxter, JL 1984, Sm-Nd geochronology of greenstone belts in the Yilgarn block, Western Australia: Precambrian Research, v. 26, p. 333–361."
+207683,0.5,2951,-28.6389,116.8950,metagranodiorite,GSWA
+155879,3.7,2956,-28.7582,116.6995,"fine- to medium-grained, equigranular granodiorite gneiss",GSWA
+203701,1.2,2958,-28.6881,116.9098,metadacite,GSWA
+193363,1.2,2958,-27.2873,123.0112,metadacite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+112163,0.1,2958,-33.6721,120.3726,rhyolite,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+209689,0.6,2960,-28.7146,116.6673,medium-grained metatonalite,GSWA
+206542,-0.1,2960,-28.7763,116.9435,rhyodacite,GSWA
+206502,0.4,2960,-28.7603,116.9419,metadacite,GSWA
+203702,0.5,2962,-28.7782,116.9600,metadacite,GSWA
+203703,0.6,2963,-28.7762,116.9604,metarhyolite,GSWA
+229392,-0.9,2964,-28.8255,115.7747,metatonalite,GSWA
+198240,-1.8,2972,-26.8821,117.7028,metavolcanic breccia,GSWA
+204833,0.4,2975,-26.9715,117.5527,felsic volcaniclastic rock,GSWA
+205622,-0.1,2975,-26.9669,117.5689,dacite,GSWA
+205634,0.2,2975,-26.9669,117.5689,rhyodacite,GSWA
+155569,-0.2,2977,-26.9789,117.4744,metarhyolite,GSWA
+224357,1.1,2978,-33.5366,119.8961,banded biotite gneiss,GSWA
+216142,4.8,2980,-25.4931,119.0689,granite gneiss,GSWA
+ARC94,1.9,2983,-33.6112,120.1090,granite,"Mole, DR, Fiorentini, ML, Cassidy, KF, Kirkland, CL, Thebaud, N, McCuaig, TC, Doublier, MP, Duuring, P, Romano, SS, Maas, R, Belousova, E, Barnes, SJ, Miller, J 2015, Crustal evolution, intra-cratonic architecture and the metallogeny of an Archaean crato"
+180994,1.9,2983,-33.6112,120.1090,granite,GSWA
+59925,2.4,3000,-32.6792,117.2487,equigranular monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+59926,2.6,3000,-32.7391,117.5932,porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77270,1.0,3000,-27.4140,115.6931,deformed porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+77272,-0.1,3000,-27.4140,115.6931,deformed porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+80309,-1.4,3000,-26.3332,116.3542,deformed porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+80313,-0.4,3000,-26.3209,116.3819,deformed porphyritic monzogranite,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+60721,0.0,3000,-25.8321,116.9181,layered gneiss,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+60723,-1.7,3000,-25.8612,116.9514,layered biotite gneiss,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+69623,-1.3,3000,-26.0362,116.7306,granodiorite gneiss,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+56434B,-1.0,3000,-29.0750,115.6792,granitic gneiss,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+56434C,-0.6,3000,-29.0750,115.6792,augen gneiss,"Fletcher, IR, Wilde, SA and Rosman, KJR 1985, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia III, the western margin: Australian Journal of Earth Sciences, v. 32, p. 73–82."
+80316,1.0,3000,-26.0793,116.4014,leucogneiss,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+80322,-2.8,3000,-26.0765,116.4194,leucogneiss,"Fletcher, IR, Libby, WG and Rosman, KJR 1994, Sm-Nd model ages of granitoid rocks in the Yilgarn Craton: Geological Survey of Western Australia Report, v. 37, p. 61–74."
+88-169,0.3,3005,-27.3920,115.5230,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+99969093B,0.2,3007,-30.1629,116.7501,granodiorite gneiss,"Fletcher, IR and McNaughton, NJ, 2002b, Sm-Nd and Pb/Pb isotope geochemistry of Yilgarn granitoids. In Cassidy et al. 2002. Characterisation and metallogenic significance of Archean granitoids of the Yilgarn Craton, Western Australia. Project No. M281. M"
+205930,0.0,3010,-31.0310,116.6198,medium- to coarse-grained monzogranitic gneiss,GSWA
+205931,0.6,3010,-31.0310,116.6198,"medium- to coarse-grained, recrystallized syenogranitic gneiss",GSWA
+142847,-3.0,3292,-25.5201,117.6454,granitic gneiss,"Wyche, S, Kirkland, CL, Riganti, A, Pawley, MJ, Belousova, E and Wingate, MTD 2012, Isotopic constraints on stratigraphy in the central and eastern Yilgarn Craton, Western Australia: Australian Journal of Earth Sciences, v. 59, p. 657–670."
+88-180,-3.8,3302,-26.2380,116.9580,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+71940,-3.0,3350,-26.4574,116.4053,gneiss,"De Laeter, JR, Fletcher, IR, Bickle, MJ, Myers, JS, Libby, WG and Williams, IR 1985, Rb-Sr, Sm-Nd and Pb-Pb geochronology of ancient gneisses from Mt Narryer, Western Australia: Australian Journal of Earth Sciences, v. 32, p. 349–358."
+60734,-2.6,3350,-26.4385,116.4246,granodiorite gneiss,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+88-175,1.1,3439,-26.5440,116.1340,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+88-176,2.0,3466,-26.5300,116.0670,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+88-197,0.0,3489,-26.5440,116.1340,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+84-82,0.9,3633,-26.5240,116.3710,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
+69627,-1.0,3640,-26.4574,116.4053,biotite layered gneiss,"De Laeter, JR, Fletcher, IR, Bickle, MJ, Myers, JS, Libby, WG and Williams, IR 1985, Rb-Sr, Sm-Nd and Pb-Pb geochronology of ancient gneisses from Mt Narryer, Western Australia: Australian Journal of Earth Sciences, v. 32, p. 349–358."
+77589,0.2,3640,-26.5421,116.3699,gneiss,"De Laeter, JR, Fletcher, IR, Bickle, MJ, Myers, JS, Libby, WG and Williams, IR 1985, Rb-Sr, Sm-Nd and Pb-Pb geochronology of ancient gneisses from Mt Narryer, Western Australia: Australian Journal of Earth Sciences, v. 32, p. 349–358."
+60735,0.0,3640,-26.4574,116.4053,biotite layered gneiss,"Fletcher, IR, Williams, SJ, Gee, RD and Rosman, KJR 1983a, Sm-Nd model ages across the margins of the Archaean Yilgarn Block, Western Australia; northwest transect into the Proterozoic Gascoyne Province: Australian Journal of Earth Sciences, v. 30, p. 16"
+88-173,1.8,3730,-26.2130,117.0130,gneiss,"Nutman, AP, Bennett, VC, Kinny, PD and Price, R 1993, Large-scale crustal structure of the northwestern Yilgarn Craton, Western Australia; evidence from Nd isotopic data and zircon geochronology: Tectonics, v. 12, p. 971–981."
